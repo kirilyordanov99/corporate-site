@@ -1,4 +1,3 @@
-
 body {
   background: #fff;
   font-family: "Open Sans", sans-serif;
@@ -998,4 +997,3 @@ body.mobile-nav-active #mobile-nav-toggle {
 .footer-menu-bottom li a {
   transition: color 0.3s ease-in-out;
 }
-
